@@ -1,4 +1,4 @@
-# Introduction
+# Neural Networks from Scratch in Python | Full Machine Learning Tutorial for Beginners
 
 Neural networks are one of the most popular machine learning models used for classification tasks. In this tutorial, we will learn how to write a neural network model in PyTorch to classify the famous Iris dataset. The Iris dataset is a classic dataset used for classification tasks, and it consists of 150 samples with three categories/classes/labels and four features (length/width of sepals and petals).
 
